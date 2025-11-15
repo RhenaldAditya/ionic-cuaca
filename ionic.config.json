@@ -1,0 +1,7 @@
+{
+  "name": "ionic-cuaca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
